@@ -6,9 +6,14 @@
 🚀 Explorando soluções em **automação, análise de dados e aplicações inteligentes**  
 📚 Sempre aprendendo e compartilhando projetos práticos  
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guizaoafonso&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizaoafonso&layout=compact&theme=tokyonight)
+<div>
+           <img width="395" src="https://github-readme-stats.vercel.app/api?username=guizaoafonso&show_icons=true&theme=nord"/>  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaoafonso&layout=compact&theme=nord"/>
+</div> 
+           
 <br>
+
 ## 🛠️ Tecnologias & Ferramentas
+
 <div style="display: inline_block">
            <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
            <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
