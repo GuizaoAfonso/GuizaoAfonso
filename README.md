@@ -6,7 +6,7 @@
 🚀 Explorando soluções em **automação, análise de dados e aplicações inteligentes**  
 📚 Sempre aprendendo e compartilhando projetos práticos  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizaoafonso&layout=compact&theme=tokyonight)
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guizaoafonso&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizaoafonso&layout=compact&theme=tokyonight)
 <br>
 ## 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block">
